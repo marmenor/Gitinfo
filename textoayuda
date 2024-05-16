@@ -1,0 +1,43 @@
+ 0:16 - Hola!
+ 0:17 - Qué es Git?
+Es un programa para llevar control de versiones de codigo
+ 0:32 -  Instalar Git
+Ya sea en windows o linux , descargar e instalar
+ 01:36 - Configurar Git - 𝙜𝙞𝙩 𝙘𝙤𝙣𝙛𝙞𝙜
+Es necesario configurarlo para que los cambios que hagamos tengan nuestra firma
+para ello usamos el comando git config --global user.name "marmenor"
+si queremos recordar el nombre que pusimos tecleamos git config user.name
+Ahora configuramos nuestro correo 
+git config --global user.email "correo@xxxx.com"
+Para saber el correo que puse tecleamos
+git config user.email
+
+ 02:46 - Iniciar Git - 𝙜𝙞𝙩 𝙞𝙣𝙞𝙩
+Para empezar a usarlo nos situamos en un directorio de nuestra elección, dónde queramos tener las carpetas de nuestros proyectos
+por ejemplo 
+/root/home/Git
+Aquí tecleamos
+git init
+Nos responde
+Initialized empty Git repository in
+/root/home/Git/
+Nos crea una rama llamada master
+Para ver que tenemos en esa rama tecleamos
+git status
+
+
+ 03:16 - Status de Git - 𝙜𝙞𝙩 𝙨𝙩𝙖𝙩𝙪𝙨
+ 03:42 - Añadir archivos a Git - 𝙜𝙞𝙩 𝙖𝙙𝙙
+ 04:14 - Commits en Git - 𝙜𝙞𝙩 𝙘𝙤𝙢𝙢𝙞𝙩 -𝙢
+ 04:49 - Historial de Git - 𝙜𝙞𝙩 𝙡𝙤𝙜
+ 05:38 - Trabajando con Git - 𝙜𝙞𝙩 𝙘𝙤𝙢𝙢𝙞𝙩 -𝙢
+ 06:42 - Ramas en Git - 𝙜𝙞𝙩 𝙗𝙧𝙖𝙣𝙘𝙝
+ 07:23 - Nueva rama en Git - 𝙜𝙞𝙩 𝙘𝙝𝙚𝙘𝙠𝙤𝙪𝙩
+ 07:48 - Trabajar en otra Rama Git - 𝙜𝙞𝙩 𝙘𝙤𝙢𝙢𝙞𝙩 -𝙢
+ 08:37 - Fusión de Ramas en Git - 𝙜𝙞𝙩 𝙢𝙚𝙧𝙜𝙚
+ 10:23 - Eliminar Rama en Git - 𝙜𝙞𝙩 𝙗𝙧𝙖𝙣𝙘𝙝 -𝙙
+ 11:14 - Crear repositiorio en 𝙂𝙞𝙩𝙃𝙪𝙗
+ 12:50 - Vincular GitHub - 𝙜𝙞𝙩 𝙧𝙚𝙢𝙤𝙩𝙚 𝙖𝙙𝙙 𝙤𝙧𝙞𝙜𝙞𝙣
+ 13:22 - Subir Cambios a Remoto GitHub - 𝙜𝙞𝙩 𝙥𝙪𝙨𝙝
+ 14:58 - Clonar Repositorio Remoto - 𝙜𝙞𝙩 𝙘𝙡𝙤𝙣𝙚
+ 16:17 - Continúa Aprendiendo - 𝘿𝙤𝙘𝙪𝙢𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣 𝙊𝙛𝙞𝙘𝙞𝙖𝙡
